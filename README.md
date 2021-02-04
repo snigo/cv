@@ -2,7 +2,7 @@
 
 CV of Igor Snitkin aka @snigo
 
-Web version: [https://snigo.github.io/cv/](snigo.github.io/cv)
+Web version: [snigo.github.io/cv](https://snigo.github.io/cv/)
 
 ## Objective
 
@@ -107,14 +107,14 @@ Music industry professional learning programming as a hobby for the last 15 year
 ### Open source
 
 #### Stuff by snigo
-[https://github.com/snigo/snigo.dev](github.com/snigo/snigo.dev)
+[github.com/snigo/snigo.dev](https://github.com/snigo/snigo.dev)
 
 * Color library with P3 and Lab support
 * Channel: observable class decorator
 * Range type influenced by range from Python
 
 #### Freecodecamp
-[https://www.freecodecamp.org/](freecodecamp.org/)
+[freecodecamp.org](https://www.freecodecamp.org/)
 
 * Moderator of JS curriculum and community leader
 * UI contributor
@@ -131,13 +131,13 @@ Music industry professional learning programming as a hobby for the last 15 year
 
 ## Contact details
 
-Email: [mailto:sudo@snigo.dev](sudo@snigo.dev)
+Email: [sudo@snigo.dev](mailto:sudo@snigo.dev)
 
-Web: [https://snigo.dev/](snigo.dev)
+Web: [snigo.dev](https://snigo.dev/)
 
-Twitter: [https://twitter.com/snigosayshi](@snigosayshi)
+Twitter: [@snigosayshi](https://twitter.com/snigosayshi)
 
-Github: [https://github.com/snigo](@snigo)
+Github: [@snigo](https://github.com/snigo)
 
-LinkedIn: [https://www.linkedin.com/in/snigo/](@snigo)
+LinkedIn: [@snigo](https://www.linkedin.com/in/snigo/)
 
