@@ -49,20 +49,20 @@ Music industry professional learning programming as a hobby for the last 15 year
 
 ## Education
 
-* **Linux Academy**
-*May 2020 / present*
+* **Linux Academy** | 
+*May 2020 / present* | 
 *Online, self-paced:* Advanced DevOps, NGINX, Jenkins, Docker, Kubernetes, AWS developer, LPI system administrator
 
-* **Codeworks**
-*January 2020 / April 2020*
+* **Codeworks** | 
+*January 2020 / April 2020* | 
 *Barcelona, Spain:* Full-Stack web development immersive bootcamp, advanced JavaScript, agile development and scrum.
 
-* **CS50 @Harvard**
-*September 2019 / December 2019*
+* **CS50 @Harvard** | 
+*September 2019 / December 2019* | 
 *Online, self-paced:* Introduction to Computer Science and web development. C, Python and SQL languages.
 
-* **Institute of Energy Saving and Energy Management, NTUU (KPI)**
-*1999 / 2004*
+* **Institute of Energy Saving and Energy Management, NTUU (KPI)** | 
+*1999 / 2004* | 
 *Kiev, Ukraine:* Four years of Mechanical Engineering. Unfinished due to career development.
 
 ---
@@ -132,9 +132,12 @@ Music industry professional learning programming as a hobby for the last 15 year
 ## Contact details
 
 Email: [mailto:sudo@snigo.dev](sudo@snigo.dev)
-Web: [https://snigo.dev/](snigo.dev)
-Twitter: [https://twitter.com/snigosayshi](@snigosayshi)
-Github: [https://github.com/snigo](@snigo)
-LinkedIn: [https://www.linkedin.com/in/snigo/](@snigo)
 
+Web: [https://snigo.dev/](snigo.dev)
+
+Twitter: [https://twitter.com/snigosayshi](@snigosayshi)
+
+Github: [https://github.com/snigo](@snigo)
+
+LinkedIn: [https://www.linkedin.com/in/snigo/](@snigo)
 
