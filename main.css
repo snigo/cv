@@ -6,7 +6,7 @@
   --color-yellow: #f5ef64;
   --color-dark-yellow: #FCE54F;
   --font-cursive: 'Unbounded', cursive;
-  --font-mono: 'Inconsolata', monospace;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
   --font-regular: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
@@ -87,8 +87,12 @@ main {
 footer {
   position: absolute;
   bottom: 0;
-  font-size: 9px;
+  font-size: 0.65rem;
   color: #8994a7;
+}
+
+section {
+  margin-bottom: 1.5rem;
 }
 
 a,
@@ -202,12 +206,13 @@ a:any-link {
   width: fit-content;
   color: white;
   font-family: var(--font-mono);
+  font-size: 1.1rem;
   background-color: var(--color-cyan);
   box-shadow: 3px 3px 0 darkcyan;
 }
 
 .dt {
-  font-size: smaller;
+  font-size: 0.85rem;
   font-style: italic;
 }
 
@@ -236,7 +241,7 @@ a:any-link {
   background-color: transparent;
   border: none;
   color: var(--color-black);
-  font-size: 9px;
+  font-size: 0.65rem;
   display: flex;
   align-items: center;
   border-radius: 4px;
@@ -271,6 +276,7 @@ a:any-link {
 
 .hm {
   font-family: var(--font-mono);
+  font-size: 1.5rem;
   color: darkcyan;
 }
 
@@ -320,14 +326,21 @@ a:any-link {
   height: 21px;
 }
 
+.ilc {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 9px;
+}
+
 .il {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  flex-wrap: wrap;
   list-style: none;
+  gap: 8px;
 }
 
 .is {
@@ -347,25 +360,49 @@ a:any-link {
   --column-gap: var(--gap);
   --row-gap: var(--gap);
   margin: calc(var(--row-gap) / -2) calc(var(--column-gap) / -2);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
 }
 
-.ll > li {
-  margin: calc(var(--row-gap) / 2) calc(var(--column-gap) / 2);
-  font-size: smaller;
-  font-family: var(--font-mono);
+.llf {
+  font-size: 0.65rem;
+  color: #8994a7;
+}
+
+.skill-item {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+.level {
+  display: flex;
+  flex-direction: column;
+}
+
+.level small {
+  font-weight: 600;
+}
+
+.llli {
+  font-size: 0.75rem;
   padding: 2px 4px;
   border: 1px solid darkcyan;
   color: darkcyan;
   border-radius: 4px;
   box-shadow: 1px 1px 0 darkcyan;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 .lp {
-  font-size: smaller;
+  font-size: 0.85rem;
 }
 
 .ml {
   font-family: var(--font-mono);
+  font-size: 0.85rem;
 }
 
 .ni {
@@ -377,7 +414,7 @@ a:any-link {
 .nl:any-link {
   color: white;
   font-weight: 600;
-  font-size: smaller;
+  font-size: 0.85rem;
   text-decoration: none;
   opacity: 85%;
   line-height: 16px;
@@ -421,7 +458,7 @@ a:any-link {
 }
 
 .pd a {
-  font-size: smaller;
+  font-size: 0.85rem;
 }
 
 .pde {
@@ -500,7 +537,7 @@ a:any-link {
   }
   body {
     margin:0;
-    transform: scale(.94);
+    transform: scale(.95);
   }
   header {
     height: 96px;
