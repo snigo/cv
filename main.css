@@ -227,6 +227,10 @@ a:any-link {
   overflow: hidden;
 }
 
+.e section {
+  margin-bottom: 2rem;
+}
+
 .ec {
   height: auto;
 }
